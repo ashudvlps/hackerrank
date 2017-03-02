@@ -1,4 +1,4 @@
-# Solution to the problem of list in hacker rank python exercise
+# Solution to the problem of list in hacker rank python exercises
 # https://www.hackerrank.com/challenges/python-lists
 N = int(input())
 flist = []
