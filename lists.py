@@ -1,4 +1,4 @@
-# Solution to the problem
+# Solution to the problem of list
 # https://www.hackerrank.com/challenges/python-lists
 N = int(input())
 flist = []
