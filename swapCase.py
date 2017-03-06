@@ -5,9 +5,9 @@
 values = input()
 printList=[]
 for val in values:
-    if val.lower()==val:
+    if val.islower():
         printList.append(val.upper())
-    elif val.upper() == val:
+    elif val.isupper():
         printList.append(val.lower())
     else:
         printList.append(val)
