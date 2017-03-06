@@ -1,2 +1,4 @@
+import requests
 import math
-Print("This")
+print (math.sqrt(12))
+print(math.pi)
